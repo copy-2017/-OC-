@@ -1,1 +1,1 @@
-# hello-world
+技嘉h310m 5700 八代cpu
